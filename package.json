@@ -1,0 +1,17 @@
+{
+  "name": "democlase",
+  "version": "1.0.0",
+  "description": "primer proyecto con node js o primera demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Rodrigo Zero",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
