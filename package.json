@@ -1,0 +1,17 @@
+{
+  "name": "proy_node",
+  "version": "1.0.0",
+  "description": "demostracion en clase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Pedro Valdiviezo Viera",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
